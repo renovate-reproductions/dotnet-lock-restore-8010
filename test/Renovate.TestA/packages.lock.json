@@ -20,9 +20,9 @@
       },
       "MinVer": {
         "type": "Direct",
-        "requested": "[3.1.0, )",
-        "resolved": "3.1.0",
-        "contentHash": "a7e2zj145UlybI6NAt9cyTjqKJpvbQzX/Th7bAdD8yTPhvzHfuAaFBe+ZBA7Cb0hVXCyyeeJikhKPB8pAbIAzA=="
+        "requested": "[3.0.0, )",
+        "resolved": "3.0.0",
+        "contentHash": "nI92y6XDCQVS18HtP5cByo0lQtlMHcw9kgNAYjIwpmPMtRNc5rHVuPbZV5CSMAh0rJhxNDpNb/n/3R/nf+12pg=="
       },
       "NUnit": {
         "type": "Direct",
@@ -560,9 +560,9 @@
       },
       "MinVer": {
         "type": "Direct",
-        "requested": "[3.1.0, )",
-        "resolved": "3.1.0",
-        "contentHash": "a7e2zj145UlybI6NAt9cyTjqKJpvbQzX/Th7bAdD8yTPhvzHfuAaFBe+ZBA7Cb0hVXCyyeeJikhKPB8pAbIAzA=="
+        "requested": "[3.0.0, )",
+        "resolved": "3.0.0",
+        "contentHash": "nI92y6XDCQVS18HtP5cByo0lQtlMHcw9kgNAYjIwpmPMtRNc5rHVuPbZV5CSMAh0rJhxNDpNb/n/3R/nf+12pg=="
       },
       "NUnit": {
         "type": "Direct",

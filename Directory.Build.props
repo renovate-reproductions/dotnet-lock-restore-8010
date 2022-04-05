@@ -3,6 +3,9 @@
 
 	<PropertyGroup>
 		<RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+        <EnableNETAnalyzers>true</EnableNETAnalyzers>
+        <AnalysisMode>AllEnabledByDefault</AnalysisMode>
+        <LangVersion>latest</LangVersion>
 	</PropertyGroup>
 
 	<ItemGroup>

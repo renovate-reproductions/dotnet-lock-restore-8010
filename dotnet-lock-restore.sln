@@ -10,6 +10,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Renovate.LibB", "src\Renovate.LibB\Renovate.LibB.csproj", "{346E8640-19C2-4EB6-BCAB-AEDE12FF37C9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{96CA121F-2435-4C4D-9E13-AE52ADFDD0A0}"
+	ProjectSection(SolutionItems) = preProject
+		test\Directory.Build.props = test\Directory.Build.props
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Renovate.TestA", "test\Renovate.TestA\Renovate.TestA.csproj", "{7EAF2101-D79D-412A-BD63-C6059A776FE4}"
 EndProject
